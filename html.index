@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>👋 Hi, I'm [Your Name]</h1>
+        <p>Cyber Forensic Student | Security Enthusiast | Future Threat Analyst</p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>
+            I'm passionate about cybersecurity and digital forensics.  
+            I enjoy exploring threat detection tools, analyzing incidents,  
+            and learning how to secure systems from modern attacks.
+        </p>
+    </section>
+
+    <section class="skills">
+        <h2>My Skills</h2>
+        <ul>
+            <li>🛡 Threat Analysis</li>
+            <li>🔍 Digital Forensics</li>
+            <li>💻 VAPT (Vulnerability Assessment & Penetration Testing)</li>
+            <li>🐍 Python Basics</li>
+            <li>⚙ Linux Commands</li>
+        </ul>
+    </section>
+
+    <section class="projects">
+        <h2>My Projects</h2>
+        <p>
+            <a href="https://yourusername.github.io/hello-web-project/" target="_blank">
+                🔗 Hello Web Project
+            </a>
+        </p>
+    </section>
+
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Email: yourname@example.com</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/yourusername" target="_blank">View Profile</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 [Your Name] | Made with ❤ using GitHub Pages</p>
+    </footer>
+</body>
+</html>
